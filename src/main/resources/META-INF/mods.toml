@@ -7,7 +7,7 @@ version="1.0.0"
 displayName="More SCP Mod"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="SuperSteve3500, Frazzle"
+authors="SuperSteve3500, Ewan"
 
 [[dependencies.morescp]]
     modId="minecraft"
