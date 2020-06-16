@@ -81,6 +81,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "scp_wall_n_3"
+    },
+    {
+      "name": "SCPWalln2Damaged",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_walln_2_damaged"
+    },
+    {
+      "name": "SCPWalln3Damaged",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_walln_3_damaged"
     }
   ],
   "variable_elements": [],
@@ -90,11 +108,13 @@
       "item.morescp.scp_logo_item": "SCP Logo Item (white)",
       "block.morescp.wall_n_1_damaged": "Wall Tipe 1 Damaged",
       "block.morescp.scp_wall_n_2": "SCP Wall Tipe 2",
+      "block.morescp.scp_walln_3_damaged": "SCP Wall Tipe 2 Damaged",
       "block.morescp.wall_n_1": "Wall Tipe 1",
       "block.morescp.scp_logo_block_dark": "SCP Logo Block (black)",
       "block.morescp.scp_logo_block": "SCP Logo Block (white)",
       "item.morescp.scp_logo_item_dark": "SCP Logo Item (dark)",
       "block.morescp.scp_wall_n_3": "SCP Wall Tipe 2",
+      "block.morescp.scp_walln_2_damaged": "SCP Wall Tipe 2 Damaged",
       "itemGroup.tabscp_blocks": "SCP Blocks"
     }
   },
