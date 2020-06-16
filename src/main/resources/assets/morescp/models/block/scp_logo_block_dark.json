@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "morescp:blocks/scplogo",
-    "up": "morescp:blocks/scplogo",
-    "north": "morescp:blocks/scplogo",
+    "down": "morescp:blocks/scplogoblack",
+    "up": "morescp:blocks/scplogoblack",
+    "north": "morescp:blocks/scplogoblack",
     "east": "morescp:blocks/scplogoblack",
-    "south": "morescp:blocks/scplogo",
-    "west": "morescp:blocks/scplogo",
-    "particle": "morescp:blocks/scplogo"
+    "south": "morescp:blocks/scplogoblack",
+    "west": "morescp:blocks/scplogoblack",
+    "particle": "morescp:blocks/scplogoblack"
   }
 }
