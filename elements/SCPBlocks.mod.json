@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "SCP Blocks",
+    "icon": {
+      "value": "CUSTOM:SCPLogoItemDark"
+    },
+    "showSearch": true
+  }
+}

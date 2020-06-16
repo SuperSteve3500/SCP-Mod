@@ -18,14 +18,84 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "scp_logo_block_dark"
+    },
+    {
+      "name": "WallN1",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_n_1"
+    },
+    {
+      "name": "SCPLogoItem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_logo_item"
+    },
+    {
+      "name": "SCPLogoItemDark",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_logo_item_dark"
+    },
+    {
+      "name": "SCPBlocks",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_blocks"
+    },
+    {
+      "name": "WallN1Damaged",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_n_1_damaged"
+    },
+    {
+      "name": "SCPWallN2",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_wall_n_2"
+    },
+    {
+      "name": "SCPWallN3",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_wall_n_3"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.morescp.scp_logo_item": "SCP Logo Item (white)",
+      "block.morescp.wall_n_1_damaged": "Wall Tipe 1 Damaged",
+      "block.morescp.scp_wall_n_2": "SCP Wall Tipe 2",
+      "block.morescp.wall_n_1": "Wall Tipe 1",
       "block.morescp.scp_logo_block_dark": "SCP Logo Block (black)",
-      "block.morescp.scp_logo_block": "SCP Logo Block (white)"
+      "block.morescp.scp_logo_block": "SCP Logo Block (white)",
+      "item.morescp.scp_logo_item_dark": "SCP Logo Item (dark)",
+      "block.morescp.scp_wall_n_3": "SCP Wall Tipe 2",
+      "itemGroup.tabscp_blocks": "SCP Blocks"
     }
   },
   "workspaceSettings": {

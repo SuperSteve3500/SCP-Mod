@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "morescp:blocks/walln1",
+    "up": "morescp:blocks/walln1",
+    "north": "morescp:blocks/walln1",
+    "east": "morescp:blocks/walln1",
+    "south": "morescp:blocks/walln1",
+    "west": "morescp:blocks/walln1",
+    "particle": "morescp:blocks/walln1"
+  }
+}

@@ -19,11 +19,11 @@ import java.util.List;
 import java.util.Collections;
 
 @MorescpModElements.ModElement.Tag
-public class SCPLogoBlockBlock extends MorescpModElements.ModElement {
-	@ObjectHolder("morescp:scp_logo_block")
+public class SCPWallN2Block extends MorescpModElements.ModElement {
+	@ObjectHolder("morescp:scp_wall_n_2")
 	public static final Block block = null;
-	public SCPLogoBlockBlock(MorescpModElements instance) {
-		super(instance, 1);
+	public SCPWallN2Block(MorescpModElements instance) {
+		super(instance, 7);
 	}
 
 	@Override
@@ -34,7 +34,7 @@ public class SCPLogoBlockBlock extends MorescpModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).lightValue(0));
-			setRegistryName("scp_logo_block");
+			setRegistryName("scp_wall_n_2");
 		}
 
 		@Override
