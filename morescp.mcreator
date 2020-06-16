@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SCPLogoBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_logo_block"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.morescp.scp_logo_block": "SCP Logo Block"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "morescp",
+    "modName": "More SCP Mod",
+    "version": "1.0.0",
+    "author": "joaom, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.14.4",
+    "modElementsPackage": "net.mcreator.morescp",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
