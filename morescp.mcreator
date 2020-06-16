@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "scp_logo_block"
+    },
+    {
+      "name": "SCPLogoBlockDark",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scp_logo_block_dark"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.morescp.scp_logo_block": "SCP Logo Block"
+      "block.morescp.scp_logo_block_dark": "SCP Logo Block (black)",
+      "block.morescp.scp_logo_block": "SCP Logo Block (white)"
     }
   },
   "workspaceSettings": {
